@@ -1,7 +1,7 @@
 # Matplotlib
 
 <p align="center">
-  <img src="https://miro.medium.com/0*Hd49xIP-0O6Pq0XE" width="260" alt="Matplotlib Logo">
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fwokhgnwx8nfn313xsoxy.png" width="260" alt="Matplotlib Logo">
 </p>
 
 ## Overview
