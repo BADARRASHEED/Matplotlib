@@ -22,7 +22,7 @@ The objective of this repository is to build a clear understanding of how Matplo
 ## Technologies
 - Python
 - Matplotlib
-- Jupyter Notebook
+- Kaggle Notebook
 
 ## Usage
 Clone the repository and open the notebook:
