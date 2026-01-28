@@ -28,3 +28,8 @@ The objective of this repository is to build a clear understanding of how Matplo
 Clone the repository and open the notebook:
 ```bash
 git clone https://github.com/BADARRASHEED/Matplotlib.git
+```
+
+## Author
+**Badar Rasheed Butt**  
+Computer Scientist | Python Specialist | Researcher
